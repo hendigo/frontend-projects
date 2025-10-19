@@ -1,4 +1,3 @@
-# frontend-projects
-Begginner Projects. Frontend GitHub Project
+# Frontend Projects
 
-This project is refer to this link : https://roadmap.sh/projects/single-page-cv
+This repository is use for increase skills in Frontend Web Development, All the resource use for educational only. All information in some files about myself is made up, so no real information added.
